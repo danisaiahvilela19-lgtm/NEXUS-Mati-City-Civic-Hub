@@ -1,64 +1,70 @@
-# AI Disclosure Log — NEXUS: Mati City Civic Hub
+# AI Disclosure & Prompt Audit Log
 
-*Project:* NEXUS: Mati City Civic Hub  
-*SDG Alignment:* SDG 11 — Sustainable Cities and Communities  
-*Last Updated:* 10/18/2026
+**Course:** ITMSD1 – Introduction to Mobile Design and Tools  
+**Semester:** 1st Semester, 2026–2027  
+**Participating Classes:** Section C & Section F (Inter-Class Hackathon)
 
-## 1. AI Tools Used
+## Team Information
 
-| AI Tool | Purpose |
-|---|---|
-| ChatGPT (OpenAI) | Assisted with brainstorming, project documentation, and refining written descriptions. |
-| Figma AI (if used) | Assisted with generating or refining UI designs and wireframes. |
-| OpenCode (if used with AI features) | Assisted with development tasks, prompts, or code generation, as applicable. |
+- **Team ID:** Team F-6
+- **Team Name:** Vanguard Squad
 
-## 2. AI Usage and Prompts
+## Project Details
 
-### Task 1: Project Planning
-*Purpose:* Help organize the project concept and identify potential core features.
+- **Project Title:** NEXUS – Mati City Civic Hub
+- **UN SDG Track:** SDG 11 – Sustainable Cities and Communities
 
-*Prompt summary:* Asked for help structuring a civic engagement app for Mati City aligned with SDG 11.
+---
 
-*Contribution:* AI-assisted suggestions for project planning.
+## 1. Reference Benchmark Examples
 
-*Human contribution:* The team reviewed suggestions and decided which ideas fit the project.
+Refer to the official ITMSD1 AI Disclosure Log Template for the benchmark examples on code generation, reactive state management, UI layout assembly, and constraint debugging.
 
-### Task 2: Project Documentation
-*Purpose:* Assist with drafting and organizing project documentation.
+---
 
-*Prompt summary:* Asked for help preparing the problem statement, user personas, user flow, and README.
+## 2. Team AI Disclosure Audit Log
 
-*Contribution:* AI-assisted writing and organization of documentation.
+### Entry 1 — Week 1: Ideation and Project Planning
 
-*Human contribution:* The team reviewed and revised the documentation to reflect the actual project.
+- **Date & Milestone:** 2026-10-18 | Week 1 (Ideation and Project Planning)
+- **AI Tool & Model:** ChatGPT (GPT-6)
+- **Members Responsible:** Johnroi M. Umbokan, Dan Isaiah Vilela, and Regine Pearl Cortez
 
-### Task 3: UI Design and Wireframes
-*Purpose:* Support the creation or refinement of low-fidelity wireframes.
+**Exact Prompt Provided:**
 
-*AI tool used:* [Enter the actual tool used, if any]
+> Guide us on how to start and organize our mobile application project for the four-week hackathon. Explain the tasks we need to complete during Week 1, including planning our project, creating low-fidelity wireframes, setting up our GitHub repository, and organizing our project files. Provide step-by-step instructions suitable for students who are starting their project.
 
-*Prompt summary:* [Record the actual prompt or a faithful summary.]
+**AI Output Summary:**
 
-*Contribution:* [Describe the AI assistance actually used.]
+ChatGPT provided step-by-step guidance on organizing the first week of the hackathon. The guidance covered project planning, preparing low-fidelity wireframes, creating and organizing a GitHub repository, and identifying the initial tasks needed to prepare for the next stages of development.
 
-*Human contribution:* The team reviewed the wireframes and selected the designs for the project.
+**Human Refinements & Edits:**
 
-## 3. Estimated Contribution Percentages
+We used the guidance to understand and organize our Week 1 tasks. We applied the relevant instructions to our project planning, low-fidelity wireframe preparation, and GitHub repository setup. We selected the steps appropriate for our project and followed our team's requirements when organizing the work.
 
-- *AI-assisted contribution:* [Enter an honest estimate based on the team's actual work and the official template.]
-- *Human/team contribution:* [Enter the corresponding estimate.]
+**Key Learning Takeaway:**
 
-Note: Explain what the percentages measure and follow the instructor's required method. Do not use invented percentages.
+We learned how to break a mobile application project into manageable tasks, prepare low-fidelity wireframes before developing the interface, and use GitHub to organize and maintain our project files. We also learned that AI guidance should be reviewed and adapted to the actual needs of our project.
 
-## 4. Human Review and Verification
+---
 
-The team is responsible for reviewing AI-assisted content and deciding what to use. Project descriptions, design decisions, and any generated code should be checked for accuracy, functionality, and alignment with the hackathon requirements.
+### Future Entries
 
-## 5. Declaration
+Additional entries will be documented using the same format as the project progresses.
 
-We acknowledge the use of AI tools where applicable during the development and documentation of NEXUS: Mati City Civic Hub. AI assistance is disclosed to support transparency. The team remains responsible for the final project and for verifying all submitted materials.
+- **Week 2:** Figma UI Design
+- **Week 3:** MVP Scaffold
+- **Week 3:** Data & State
+- **Week 4:** Final Polish
 
-*Prepared by:* TEAM VANGUARD  
-*Date:* 10/18/2026
-Compose
-Write to Vanguard Squad
+---
+
+## 3. Academic Honesty & Transparency Declaration
+
+We hereby declare that all entries recorded in this AI Disclosure Log represent a truthful and accurate account of the artificial intelligence tools used during this hackathon. All designs, architectures, and code submitted will be reviewed and verified by our team members, who will strive to understand the work and be prepared to explain and defend their contributions during the Demo Day oral defense.
+
+| Team Member Name | Signature | Date (YYYY-MM-DD) |
+|---|---|---|
+| Member 1: Johnroi M. Umbokan | [Signature] | 2026-10-18 |
+| Member 2: Dan Isaiah Vilela | [Signature] | 2026-10-18 |
+| Member 3: Regine Pearl Cortez | [Signature] | 2026-10-18 |
