@@ -68,13 +68,40 @@ We reviewed the AI-generated guidance and applied the relevant suggestions to ou
 **Key Learning Takeaway:**
 
 We learned how to organize a design system, create consistent high-fidelity interfaces, represent application navigation through a user flow diagram, and develop an interactive prototype using Figma. We also learned that AI can provide useful design guidance, but the team must review and make the final design decisions based on the project's objectives.
+### Entry 3 — Week 3: Mobile Application Development
+
+- **Date & Milestone:** 2026-11-06 | Week 3 (Mobile Application Development)
+- **AI Tools & Models:** ChatGPT (GPT-6) and Claude (Anthropic Claude)
+- **Members Responsible:** Johnroi M. Umbokan, Dan Isaiah Vilela, and Regine Pearl Cortez
+
+**Exact Prompts Provided:**
+
+**ChatGPT (Guidance):**
+
+> Guide us through the Week 3 mobile application development tasks for our NEXUS – Mati City Civic Hub project. Provide step-by-step instructions on implementing the mobile application using React Native and Expo. Help us understand the project structure, connect the existing UI designs to the application, implement the required features, troubleshoot errors, and test the application's functionality.
+
+**Claude (Coding Assistance):**
+
+> Assist us in implementing the NEXUS – Mati City Civic Hub mobile application using React Native and Expo. Help us write and improve the code for the application's features, particularly the map and location selection, camera functionality, image capture and gallery selection, and other reporting-related features. Ensure that the code follows the existing project structure and integrates with the current application.
+
+**AI Output Summary:**
+
+ChatGPT provided step-by-step guidance throughout the mobile application development process. It helped explain the project structure, development workflow, implementation steps, and troubleshooting procedures.
+
+Claude assisted with coding tasks for the mobile application, including the map and location selection features, camera functionality, image capture, gallery selection, and other reporting-related components. It provided code suggestions and implementation assistance based on the existing React Native and Expo project.
+
+**Human Refinements & Edits:**
+
+We reviewed the AI-generated guidance and coding suggestions before applying them to the NEXUS application. We integrated the relevant code into our existing project, adjusted implementations when necessary, resolved errors, and tested the application to verify that the features worked as intended. The team remained responsible for the final implementation, integration, and testing of the application.
+
+**Key Learning Takeaway:**
+
+We learned how to develop a mobile application using React Native and Expo, organize and manage project files, implement interactive features, and troubleshoot programming errors. We also gained experience integrating map and location selection, camera, and image attachment functionalities. We learned that AI tools can support both development guidance and coding, but their outputs must always be reviewed, understood, and tested before implementation.
 ### Future Entries
 
 Additional entries will be documented using the same format as the project progresses.
 
 
-- **Week 3:** MVP Scaffold
-- **Week 3:** Data & State
 - **Week 4:** Final Polish
 
 ---
