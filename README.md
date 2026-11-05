@@ -42,7 +42,27 @@ The project promotes transparency, community participation, and accessible commu
 
 ## Technology Stack
 
-Update this section with the actual technologies selected and used by the team.
+## 5. Technologies Used
+
+| Technology | Description |
+|---|---|
+| Expo (~58) | Toolkit that makes building and running the app easier. |
+| React Native (0.88) | Framework for building Android and iOS applications. |
+| React (19.3) | Builds application screens using reusable components. |
+| TypeScript | JavaScript with types that helps catch errors early. |
+| Expo Router | Handles screen navigation using file-based routing. |
+| Expo SQLite | Stores application data locally on the device. |
+| expo-file-system | Saves and manages image files on the device. |
+| expo-camera | Allows users to take photos inside the app. |
+| expo-image-picker | Allows users to select photos from their gallery. |
+| react-native-maps | Displays maps and allows users to select a location using a pin. |
+| React Native Reanimated | Provides smooth animations and transitions. |
+| React Native Gesture Handler | Handles touch gestures and user interactions. |
+| React Native Screens | Helps manage native application screens efficiently. |
+| React Native Safe Area Context | Keeps content within safe screen areas. |
+| expo-linear-gradient | Creates gradient backgrounds. |
+| Inter Font | Provides the typography used throughout the application. |
+| Vector Icons | Provides icons for categories, navigation tabs, and buttons. |
 
 ## AI Disclosure
 
