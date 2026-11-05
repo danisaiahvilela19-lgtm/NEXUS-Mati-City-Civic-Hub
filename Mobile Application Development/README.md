@@ -29,4 +29,6 @@ The mobile application was implemented using React Native and Expo. The main rep
 
 ## AI Disclosure
 
-[AI_DISCLOSURE_LOG.md](../../AI_DISCLOSURE_LOG.md)
+## 6. AI Disclosure
+
+[AI_DISCLOSURE_LOG.md](../../../AI_DISCLOSURE_LOG.md)
