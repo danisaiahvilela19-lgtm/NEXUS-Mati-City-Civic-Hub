@@ -72,7 +72,7 @@ We learned how to organize a design system, create consistent high-fidelity inte
 
 Additional entries will be documented using the same format as the project progresses.
 
-- **Week 2:** Figma UI Design
+
 - **Week 3:** MVP Scaffold
 - **Week 3:** Data & State
 - **Week 4:** Final Polish
