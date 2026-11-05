@@ -47,7 +47,27 @@ We used the guidance to understand and organize our Week 1 tasks. We applied the
 We learned how to break a mobile application project into manageable tasks, prepare low-fidelity wireframes before developing the interface, and use GitHub to organize and maintain our project files. We also learned that AI guidance should be reviewed and adapted to the actual needs of our project.
 
 ---
+### Entry 2 — Week 2: UI/UX Design and Prototyping
 
+- **Date & Milestone:** 2026-11-04 | Week 2 (UI/UX Design and Prototyping)
+- **AI Tool & Model:** ChatGPT (GPT-6)
+- **Members Responsible:** Johnroi M. Umbokan, Dan Isaiah Vilela, and Regine Pearl Cortez
+
+**Prompt Provided (Reconstructed Summary):**
+
+> Guide us through the Week 2 tasks for our NEXUS – Mati City Civic Hub project. Explain how to create and organize a design system, prepare high-fidelity UI designs, develop a user flow diagram, and create an interactive Figma prototype. Provide step-by-step instructions and suggestions while maintaining consistency with our existing project concept and requirements.
+
+**AI Output Summary:**
+
+ChatGPT provided step-by-step guidance on completing the Week 2 UI/UX design and prototyping tasks. The assistance covered organizing the design system, preparing high-fidelity interface designs, creating a user flow diagram, and developing an interactive Figma prototype. It also provided suggestions for improving the layout, consistency, and organization of the design materials.
+
+**Human Refinements & Edits:**
+
+We reviewed the AI-generated guidance and applied the relevant suggestions to our NEXUS project. We made our own design decisions, adjusted the layouts, organized the design system, prepared the user flow diagram, and refined the Figma prototype based on our project requirements. We also reviewed and modified the suggested outputs to ensure they matched our intended application design.
+
+**Key Learning Takeaway:**
+
+We learned how to organize a design system, create consistent high-fidelity interfaces, represent application navigation through a user flow diagram, and develop an interactive prototype using Figma. We also learned that AI can provide useful design guidance, but the team must review and make the final design decisions based on the project's objectives.
 ### Future Entries
 
 Additional entries will be documented using the same format as the project progresses.
