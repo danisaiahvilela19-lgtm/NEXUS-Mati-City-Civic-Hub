@@ -37,7 +37,7 @@ The project promotes transparency, community participation, and accessible commu
 
 ## Design and Documentation
 
-- *Figma Design:* [Insert your Figma link]
+- *Figma Design:* https://www.figma.com/design/TVbBZwGXilT4dNrT8tWpML/NEXUS--Mati-City-Civic-Hub---Mobile-App-UI-UX-Design---Design-System?node-id=0-1&t=7y8fKsUCOVZ6JwJg-1
 - *GitHub Repository:* [Insert your repository link]
 
 ## Technology Stack
