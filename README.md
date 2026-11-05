@@ -41,8 +41,6 @@ The project promotes transparency, community participation, and accessible commu
 
 ## Technology Stack
 
-## 5. Technologies Used
-
 | Technology | Description |
 |---|---|
 | Expo (~58) | Toolkit that makes building and running the app easier. |
