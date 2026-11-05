@@ -26,9 +26,3 @@ NEXUS is a mobile application designed to help residents report community-relate
 
 ## Development Milestone
 The mobile application was implemented using React Native and Expo. The main reporting features were integrated and tested to verify their functionality.
-
-## AI Disclosure
-
-## 6. AI Disclosure
-
-[AI_DISCLOSURE_LOG.md](../../../AI_DISCLOSURE_LOG.md)
